@@ -4,7 +4,7 @@
   "description": "Package Bundle for PouchDB for ReactNative",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockulus/pouchdb-react-native.git"
+    "url": "git+https://github.com/orlandobricenob/pouchdb-react-native.git"
   },
   "keywords": [
     "pouchdb",
@@ -25,15 +25,14 @@
     "updtr": "updtr --save-exact && cd example && updtr --save-exact && cd .. && for D in ./packages/*; do echo $D; cd $D; npm run updtr; cd -; done"
   },
   "author": {
-    "name": "Christoph Stock",
-    "email": "stockulus@icloud.com",
-    "url": "https://twitter.com/stockulus"
+    "name": "Orlando Briceño",
+    "email": "orlando.briceno.blanco@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stockulus/pouchdb-react-native/issues"
+    "url": "https://github.com/orlandobricenob/pouchdb-react-native/issues"
   },
-  "homepage": "https://github.com/stockulus/pouchdb-react-native#readme",
+  "homepage": "https://github.com/orlandobricenob/pouchdb-react-native#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "8.2.6",
