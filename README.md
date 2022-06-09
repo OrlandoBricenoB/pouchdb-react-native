@@ -2,7 +2,8 @@
 
 [![npm Package](https://img.shields.io/npm/dm/pouchdb-react-native.svg)](https://www.npmjs.com/package/pouchdb-react-native) [![npm Package](https://img.shields.io/npm/v/pouchdb-react-native.svg)](https://www.npmjs.com/package/pouchdb-react-native) [![travis-ci.org](https://travis-ci.org/seigel/pouchdb-react-native.svg)](https://travis-ci.org/seigel/pouchdb-react-native) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![license](https://img.shields.io/npm/l/pouchdb-react-native.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
 
-
+**¿Por qué hice este fork?**
+Este paquete utiliza el modulo "AsyncStorage" de React Native, pero este está deprecado y causa problemas actualmente, así que lo actualicé utilizando el paquete de [react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage)
 
 NEWS
 ======
