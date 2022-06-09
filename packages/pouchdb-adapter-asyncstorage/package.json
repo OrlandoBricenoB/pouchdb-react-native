@@ -1,11 +1,11 @@
 {
-  "name": "pouchdb-adapter-asyncstorage",
+  "name": "pouchdb-adapter-new-asyncstorage",
   "version": "7.0.0-beta-1",
-  "description": "asyncstorage adapter for PouchDB",
+  "description": "asyncstorage/asyncstorage adapter for PouchDB",
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockulus/pouchdb-react-native.git"
+    "url": "git+https://github.com/pouchdb-react-native/pouchdb-react-native.git"
   },
   "keywords": [
     "pouchdb",
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stockulus/pouchdb-react-native/issues"
+    "url": "https://github.com/orlandobricenob/pouchdb-react-native/issues"
   },
-  "homepage": "https://github.com/stockulus/pouchdb-react-native#readme",
+  "homepage": "https://github.com/orlandobricenob/pouchdb-react-native#readme",
   "dependencies": {
     "atob": "2.1.1",
     "blob-polyfill": "3.0.20180112",
