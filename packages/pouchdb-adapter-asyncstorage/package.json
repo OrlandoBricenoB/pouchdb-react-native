@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pouchdb-react-native/pouchdb-react-native.git"
+    "url": "git+https://github.com/orlandobricenob/pouchdb-react-native.git"
   },
   "keywords": [
     "pouchdb",
@@ -18,7 +18,8 @@
   },
   "author": {
     "name": "Orlando Briceño",
-    "email": "orlando.briceno.blanco@gmail.com"
+    "email": "orlando.briceno.blanco@gmail.com",
+    "url": "https://twitter.com/OrlandoBricenoB"
   },
   "license": "MIT",
   "bugs": {
